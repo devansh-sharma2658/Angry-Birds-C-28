@@ -1,2 +1,2 @@
-# Angry-Birds-C-28
-Slingshot effect
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
